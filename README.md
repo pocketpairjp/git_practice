@@ -1,3 +1,12 @@
+# float_to_int
+float から int にしたいとき
+※ `using UnityEngine;` が必要
+```
+var x = 10.5F;
+Mathf.FloorToInt(x);
+// (int) x; で明示的キャストしないこと
+```
+
 # git_practice
 gitコマンドの練習用
 

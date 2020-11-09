@@ -6,3 +6,5 @@ abc654
 Def321
 metal_slime
 slime_family
+
+Golden_slime

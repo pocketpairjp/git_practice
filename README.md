@@ -26,3 +26,10 @@ git config --global alias.p push
 git config --global alias.d diff
 ```
 aaa
+
+
+# Fork
+新しくプロジェクトを始める時:File/Clone
+変更履歴の保存:Stage+Commit
+自分の変更履歴のアップロード:Push
+他の人の変更履歴のダウンロード:Pull(Fetch+Merge)

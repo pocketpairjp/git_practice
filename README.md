@@ -1,4 +1,6 @@
-[English](./README_en.md)
+
+English [here](./README_en.md).
+
 
 # float_to_int
 float から int にしたいとき
